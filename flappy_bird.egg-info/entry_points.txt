@@ -1,0 +1,2 @@
+[console_scripts]
+flappy_bird = flappy_bird.main:main
